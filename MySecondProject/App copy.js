@@ -7,7 +7,7 @@ export default function MyApp() {
         {"\n\n\n\n\n\n"}
         Hello I am a student in CIS340!
     </Text>
-    <textInput
+    <TextInput
       style={{
         height: 40,
         borderColor: "gray",
